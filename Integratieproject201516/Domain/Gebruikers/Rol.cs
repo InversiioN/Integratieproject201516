@@ -1,7 +1,12 @@
-﻿namespace Domain.Gebruikers
+﻿using Integratieproject_Domain.Gebruikers;
+using System.ComponentModel.DataAnnotations;
+
+namespace Domain.Gebruikers
 {
     public class Rol
     {
-        public string TypeRol { get; set; } 
+        [Key]
+        public int RolID { get; set; }
+        public RolType RolType { get; set; } 
     }
 }

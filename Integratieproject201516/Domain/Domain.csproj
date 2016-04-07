@@ -60,19 +60,25 @@
     <Compile Include="Begrotingen\Actie.cs" />
     <Compile Include="Begrotingen\Begroting.cs" />
     <Compile Include="Begrotingen\GemeenteCategorie.cs" />
-    <Compile Include="Begrotingen\Rekening.cs" />
     <Compile Include="Gebruikers\Gebruiker.cs" />
     <Compile Include="Gebruikers\Rol.cs" />
+    <Compile Include="Gebruikers\RolType.cs" />
     <Compile Include="Participatie\Project.cs" />
+    <Compile Include="Participatie\ProjectCategorie.cs" />
+    <Compile Include="Participatie\ProjectStatus.cs" />
+    <Compile Include="Participatie\ProjectType.cs" />
+    <Compile Include="Participatie\Reactie.cs" />
     <Compile Include="Participatie\Stem.cs" />
     <Compile Include="Participatie\Voorstel.cs" />
+    <Compile Include="Participatie\VoorstelCategorie.cs" />
+    <Compile Include="Participatie\VoorstelStatus.cs" />
     <Compile Include="Steden\Belasting.cs" />
     <Compile Include="Begrotingen\CategorieOmschrijving.cs" />
     <Compile Include="Begrotingen\Meerjarenplan.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Begrotingen\Realisatie.cs" />
     <Compile Include="Begrotingen\Termijn.cs" />
-    <Compile Include="Steden\Stad.cs" />
+    <Compile Include="Steden\Plaats.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

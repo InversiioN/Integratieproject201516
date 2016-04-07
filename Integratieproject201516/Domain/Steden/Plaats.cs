@@ -1,9 +1,12 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Domain
 {
-    public class Stad
+    public class Plaats
     {
+        [Key]
+        public int PlaatsID { get; set; }
         public string Naam { get; set; }
         public IEnumerable<string> Postcode { get; set; }
         public int Inwoners { get; set; }

@@ -1,8 +1,11 @@
-﻿namespace Domain
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Domain
 {
     public class Belasting
     {
-        public double Brutoloon { get; set; }
+        [Key]
+        public int BelastingID { get; set; }
         public double Percentage { get; set; } 
     }
 }
