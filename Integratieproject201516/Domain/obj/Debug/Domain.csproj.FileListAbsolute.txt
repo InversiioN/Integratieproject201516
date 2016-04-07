@@ -1,0 +1,14 @@
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Integratieproject_Domain.dll.config
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Integratieproject_Domain.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Integratieproject_Domain.pdb
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\EntityFramework.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\EntityFramework.xml
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\obj\Debug\Integratieproject_Domain.dll
+C:\Users\brent\Desktop\Integratieproject201516\Integratieproject201516\Domain\obj\Debug\Integratieproject_Domain.pdb
