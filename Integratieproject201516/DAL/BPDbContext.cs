@@ -10,6 +10,7 @@ using Domain.Begrotingen;
 using Domain.Participatie;
 using Integratieproject_Domain.Participatie;
 using Integratieproject_Domain.Gebruikers;
+using DAL;
 
 namespace Integratieproject_DAL
 {
@@ -17,7 +18,7 @@ namespace Integratieproject_DAL
     {
         public BPDbContext() : base("BP_DB")
         {
-
+            System.Data.Entity.Database.SetInitializer<BPDbContext>(new BPInitializer());
         }
 
         DbSet<Actie> Acties { get; set; }

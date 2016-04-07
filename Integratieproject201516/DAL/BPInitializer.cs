@@ -9,6 +9,9 @@ namespace DAL
 {
     public class BPInitializer : System.Data.Entity.CreateDatabaseIfNotExists<BPDbContext>
     {
-
+        protected override void Seed(BPDbContext context)
+        {
+            base.Seed(context);
+        }
     }
 }
