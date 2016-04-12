@@ -18,7 +18,7 @@ namespace Integratieproject_DAL
     {
         public BPDbContext() : base("BP_DB")
         {
-            System.Data.Entity.Database.SetInitializer<BPDbContext>(new BPInitializer());
+            Database.SetInitializer<BPDbContext>(new BPInitializer());
         }
 
         DbSet<Actie> Acties { get; set; }
@@ -37,7 +37,53 @@ namespace Integratieproject_DAL
         DbSet<Gebruiker> Gebruikers { get; set; }
         DbSet<Rol> Rollen { get; set; }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //Acties
+            modelBuilder.Entity<Actie>().ToTable("tblActies");
 
+            //GemeenteCategorieën
+            modelBuilder.Entity<GemeenteCategorie>().ToTable("tblActies");
+
+            //CategorieOmschrijvingen
+            modelBuilder.Entity<CategorieOmschrijving>().ToTable("tblActies");
+
+            //Realisaties
+            modelBuilder.Entity<Realisatie>().ToTable("tblActies");
+
+            //Begrotingen
+            modelBuilder.Entity<Begroting>().ToTable("tblActies");
+
+            //Meerjarenplannen
+            modelBuilder.Entity<Meerjarenplan>().ToTable("tblActies");
+
+            //Plaatsen
+            modelBuilder.Entity<Plaats>().ToTable("tblActies");
+
+            //Belastingen
+            modelBuilder.Entity<Belasting>().ToTable("tblActies");
+
+            //Voorstellen
+            modelBuilder.Entity<Voorstel>().ToTable("tblActies");
+
+            //VoorstelCategorieën
+            modelBuilder.Entity<VoorstelCategorie>().ToTable("tblActies");
+
+            //Reacties
+            modelBuilder.Entity<Reactie>().ToTable("tblActies");
+
+            //Projecten
+            modelBuilder.Entity<Project>().ToTable("tblActies");
+
+            //ProjectCategorieën
+            modelBuilder.Entity<ProjectCategorie>().ToTable("tblActies");
+
+            //Gebruikers
+            modelBuilder.Entity<Gebruiker>().ToTable("tblActies");
+
+            //Rollen
+            modelBuilder.Entity<Rol>().ToTable("tblActies");
+        }
 
     }
 }

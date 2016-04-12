@@ -1,4 +1,5 @@
-﻿using Integratieproject_DAL;
+﻿using Domain;
+using Integratieproject_DAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,10 @@ namespace DAL
     {
         protected override void Seed(BPDbContext context)
         {
-            base.Seed(context);
+            Actie actieTest = new Actie()
+            {
+                NaamBestuur = "testActie"
+            };
         }
     }
 }
