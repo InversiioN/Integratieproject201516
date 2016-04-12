@@ -16,5 +16,7 @@ namespace Domain
         public double Uitgave { get; set; }
         public byte Afbeelding { get; set; }
         public Realisatie Realisatie { get; set; }
+
+
     }
 }
