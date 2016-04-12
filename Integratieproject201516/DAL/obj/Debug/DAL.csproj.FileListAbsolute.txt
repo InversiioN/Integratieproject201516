@@ -1,0 +1,16 @@
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Integratieproject_DAL.dll.config
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Integratieproject_DAL.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Integratieproject_DAL.pdb
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Integratieproject_Domain.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Integratieproject_Domain.pdb
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\obj\Debug\Integratieproject_DAL.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\DAL\obj\Debug\Integratieproject_DAL.pdb

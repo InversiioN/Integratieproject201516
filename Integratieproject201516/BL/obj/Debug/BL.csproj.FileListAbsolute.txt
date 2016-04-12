@@ -1,0 +1,5 @@
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\BL\bin\Debug\Integratieproject_BL.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\BL\bin\Debug\Integratieproject_BL.pdb
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\BL\obj\Debug\Integratieproject_BL.dll
+C:\Users\Koen\Source\Repos\net\Integratieproject201516\BL\obj\Debug\Integratieproject_BL.pdb
