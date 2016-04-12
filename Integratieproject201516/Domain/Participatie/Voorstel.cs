@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Integratieproject_Domain.Participatie;
+using System.ComponentModel.DataAnnotations;
 
 namespace Domain.Participatie
 {
